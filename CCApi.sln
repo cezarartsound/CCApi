@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29920.165
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCApi", "CCApi\CCApi.csproj", "{D795737B-C4F1-448C-A347-97C52B313730}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCApi", "CCApi\CCApi.csproj", "{D795737B-C4F1-448C-A347-97C52B313730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCCrossApi", "CCCrossApi\CCCrossApi.csproj", "{2C02D9B7-F4AD-4249-9EAD-5E4965416759}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D795737B-C4F1-448C-A347-97C52B313730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D795737B-C4F1-448C-A347-97C52B313730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D795737B-C4F1-448C-A347-97C52B313730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C02D9B7-F4AD-4249-9EAD-5E4965416759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C02D9B7-F4AD-4249-9EAD-5E4965416759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C02D9B7-F4AD-4249-9EAD-5E4965416759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C02D9B7-F4AD-4249-9EAD-5E4965416759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
